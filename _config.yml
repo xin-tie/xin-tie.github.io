@@ -3,10 +3,14 @@ plugins:
   - jekyll-include-cache
 
 menu:
+  - title:             About me
+    url:               /about/
   - title:             Research
     url:               /research/
   - title:             Publications
     url:               /publications/
-  - title:             Hobby
-    url:               /hobby/
+  - title:             Presentations
+    url:               /presentations/
+  - title:             CV
+    url:               /CV/
 
