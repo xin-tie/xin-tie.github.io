@@ -5,8 +5,8 @@ plugins:
 menu:
   - title:             Example
     url:               /example/
-  - title:             Documentation
-    url:               /docs/
+  - title:             Publications
+    url:               /publications/
   - title:             About
     url:               /about/
 
