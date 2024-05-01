@@ -1,3 +1,12 @@
 remote_theme: hydecorp/hydejack@v9.1.6
 plugins:
   - jekyll-include-cache
+
+menu:
+  - title:             Example
+    url:               /example/
+  - title:             Documentation
+    url:               /docs/
+  - title:             About
+    url:               /about/
+
