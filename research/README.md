@@ -2,5 +2,5 @@ We use a global chemical transport called GEOS-Chem for our study, and GISS mode
 
 ---
 image: 
-  path: /assets/ICECAP2.0_frame.jpg
+  path: /assets/img/research/ICECAP2.0_frame.jpg
 ---
