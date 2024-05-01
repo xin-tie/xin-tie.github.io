@@ -1,1 +1,1 @@
-
+My name is Xin Tie. I come from Szechuan province, China, where it is famous for spicy food. I am currently a Ph.D. candidate at Lee Murray's group at University of Rochester. My research looks into the role of chlorine in constraining methane budget at and since the Last Glacial Maximum (about 21,000 years ago), as well as in the modern world. We use a global chemical transport called GEOS-Chem for our study, and GISS model for simulated meteorology to be used in GEOS-Chem.
