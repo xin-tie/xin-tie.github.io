@@ -3,8 +3,8 @@ plugins:
   - jekyll-include-cache
 
 menu:
-  - title:             Example
-    url:               /example/
+  - title:             Research
+    url:               /research/
   - title:             Publications
     url:               /publications/
   - title:             About
