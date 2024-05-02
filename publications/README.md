@@ -1,1 +1,3 @@
-Tropospheric Ozone During the Last Interglacial
+Yan, Y., Banerjee, A., Murray, L. T., Tie, X., Yeung, L. Y.: Tropospheric Ozone During the Last Interglacial, Geophys Res Lett, 49, 23, https://doi.org/10.1029/2022GL101113, 2022.
+Banerjee, A., Yeung, L. Y., Murray, L. T., Tie, X., Tierney, J. E., Legrande, A. N.: Clumped-Isotope Constraint on Upper-Tropospheric Cooling During the Last Glacial Maximum, AGU Advances, 3, e2022AV000688, https://doi.org/10.1029/2022AV000688, 2022.
+Yeung, L. Y., Murray, L. T., Banerjee, A., Tie, X., Yan, Y., Atlas, E. L., Schauffler, S. M., Boering, K. A.: Effects of ozone isotopologue formation on the clumped-isotope composition of atmospheric O2. Journal of Geophysical Research: Atmospheres, 126, e2021JD034770, https://doi.org/10.1029/2021JD034770, 2021.
