@@ -4,8 +4,6 @@ plugins:
 
 lang:                  en
 title:                 Xin
-no_navbar:             true
-no_page_style:         true
 
 menu:
   - title:             About Me
@@ -19,3 +17,6 @@ menu:
   - title:             CV
     url:               /CV/
 
+hydejack:
+  no_navbar:             true
+  no_page_style:         true
