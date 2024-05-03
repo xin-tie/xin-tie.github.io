@@ -1,7 +1,3 @@
----
-layout: page
-permalink: /publications/
----
 
 * Yan, Y., Banerjee, A., Murray, L. T., **Tie, X.**, Yeung, L. Y.: Tropospheric Ozone During the Last Interglacial, Geophys Res Lett, 49, 23, doi:[10.1029/2022GL101113](https://doi.org/10.1029/2022GL101113){:.no-mark-external}, 2022.[<span style='background-color:orange'>Editor Hightlight</span>](https://eos.org/editor-highlights/clumped-18o-18o-in-ice-reveals-past-ozone-and-wildfire){:.no-mark-external} [<img src="../assets/img/publications/pdf-svgrepo-com.svg" width="20">](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2022GL101113){:.no-mark-external}
 * Banerjee, A., Yeung, L. Y., Murray, L. T., **Tie, X.**, Tierney, J. E., Legrande, A. N.: Clumped-Isotope Constraint on Upper-Tropospheric Cooling During the Last Glacial Maximum, AGU Advances, 3, e2022AV000688, doi:[10.1029/2022AV000688](https://doi.org/10.1029/2022AV000688){:.no-mark-external}, 2022. [<img src="../assets/img/publications/pdf-svgrepo-com.svg" width="20">](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2022AV000688){:.no-mark-external}
