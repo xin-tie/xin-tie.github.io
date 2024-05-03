@@ -6,8 +6,6 @@ lang:                  en
 title:                 Xin Tie
 
 menu:
-  - title:             About Me
-    url:               /about/
   - title:             Research
     url:               /research/
   - title:             Publications
