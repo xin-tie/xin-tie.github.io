@@ -2,6 +2,9 @@ remote_theme: hydecorp/hydejack@v9.1.6
 plugins:
   - jekyll-include-cache
 
+lang:                  en
+title:                 Xin
+
 menu:
   - title:             About Me
     url:               /about/
