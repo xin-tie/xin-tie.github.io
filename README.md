@@ -1,6 +1,6 @@
 ---
-layout:   page
-comments: true
+layout: page
+permalink: /main/
 ---
 
 ##XIN TIE
