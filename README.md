@@ -6,5 +6,3 @@
 
 <!-- Simply set the `src` attribute to your MD file and win -->
 <zero-md src="README.md"></zero-md>
-
-## Hello
