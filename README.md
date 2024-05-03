@@ -1,1 +1,2 @@
-# xin-tie.github.io
+# XIN TIE
+Climate Scientist, Data analyst
