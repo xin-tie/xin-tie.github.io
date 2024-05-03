@@ -1,6 +1,5 @@
 ---
-layout:   post
-title:    Hello World
+layout:   page
 comments: true
 ---
 remote_theme: hydecorp/hydejack@v9.1.6
