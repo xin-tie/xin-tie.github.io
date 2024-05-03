@@ -3,7 +3,7 @@ plugins:
   - jekyll-include-cache
 
 lang:                  en
-title:                 Xin Tie
+title:                 Xin
 no_navbar:             true
 no_page_style:         true
 
