@@ -4,6 +4,7 @@ plugins:
 
 lang:                  en
 title:                 Xin Tie
+no_push_state:         true
 
 menu:
   - title:             About Me
