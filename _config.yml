@@ -3,7 +3,7 @@ plugins:
   - jekyll-include-cache
 
 lang:                  en
-title:                 Xin
+title:                 Xin Tie
 
 menu:
   - title:             About Me
