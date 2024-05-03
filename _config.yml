@@ -17,6 +17,3 @@ menu:
   - title:             CV
     url:               /CV/
 
-hydejack:
-  no_navbar:             true
-  no_page_style:         true
