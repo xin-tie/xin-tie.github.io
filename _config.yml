@@ -4,7 +4,8 @@ plugins:
 
 lang:                  en
 title:                 Xin Tie
-no_navbar:         true
+no_navbar:             true
+no_page_style:         true
 
 menu:
   - title:             About Me
